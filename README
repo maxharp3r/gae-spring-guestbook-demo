@@ -1,1 +1,17 @@
 Some code to go with the blog post at http://blog.blueshiftlab.com/2009/06/spring-3-in-appengine-guestbook-demo.html
+
+Jar dependencies:
+appengine-api-stubs.jar
+appengine-local-runtime.jar
+easymock-2.5.1-sources.jar
+easymock-2.5.1.jar
+jstl-1.2.jar
+org.springframework.asm-sources-3.0.0.M3.jar
+org.springframework.beans-sources-3.0.0.M3.jar
+org.springframework.context-sources-3.0.0.M3.jar
+org.springframework.core-sources-3.0.0.M3.jar
+org.springframework.expression-sources-3.0.0.M3.jar
+org.springframework.test-sources-3.0.0.M3.jar
+org.springframework.web-sources-3.0.0.M3.jar
+org.springframework.web.servlet-sources-3.0.0.M3.jar
+
